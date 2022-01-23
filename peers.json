@@ -1,4 +1,4 @@
-[
+{
 	"10BB": {
 		"current_battles": 133022172,
 		"current_frags": 0.831,
@@ -479,4 +479,4 @@
 		"stdv_damage": 5060.07637878351,
 		"stdv_planes": 1.13783860971334
 	}
-]
+}
